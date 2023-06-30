@@ -1,0 +1,58 @@
+Variables:- Variable names can only contain letters,numbers and underscore spaces aren't allowed
+
+Strings:- (str()) is a series of characters.
+
+Method:- Action that python can perform on peice of data, Every Method is followed by paranthesis
+
+Basic Arithmetic operators:- 
+	 Multiplication (*)
+	 Division (/)
+	 Integer division (//)  {Takes the largest integer that is equal to or smaller than the quotient}
+	 Modulus (%)  {Takes the remainder}
+	 Addition (+)
+	 Substraction (-)
+	
+	
+Some Basic Functions and Methods in python:- 
+
+	(i). Defining Functions:- 
+		       	
+		      def function_name()
+					  statement(s)
+					
+	(ii). Functions Arguments:-
+			(a). Required Arguements:-  
+            Arguments passed to a function in correct positional order.
+			(b). Keyword Arguements:- 
+				    This allows you to skip arguments or place them out of order because python interpreter is able to use he keyword provided to match the values with parameters.
+			(c). Default Arguments:- 
+				   Arguments that assume a default value if a value is not provided in the function call for that argument.
+				
+			(d). Variable-length Arguments:-
+					Allows python to process a function with more than one Arguement.
+					syntax:
+					def function_name([formal_arg,] *var_arg_tuple):
+
+					(*) places before varaible name holds the values of all nonkeyword variable.
+					
+	 (iii). Python Recursion:- 
+			    Recursion is the process of defining something in terms of itself.
+			
+	  (iv). Lambda Funtions:- 			  
+					
+	\n :- Tells python to perform action on new line
+	
+	\t :- Creates tabs.
+	
+	rstrip() :- Tells python to strip whitespace from 					 from right side.
+	
+	List:- collection of objects in a specific order.
+	 		 syntax:  list['object1','object2']
+	 		 object assignment in List:
+							   0		 1		  2      3
+				list=['obj1','obj2','obj3','obj4']
+						    -4     -3     -2     -1 
+	
+			 To access a specific value we use indexing.
+			
+  
