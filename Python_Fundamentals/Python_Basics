@@ -49,9 +49,9 @@ Some Basic Functions and Methods in python:-
 	List:- collection of objects in a specific order.
 	 		 syntax:  list['object1','object2']
 	 		 object assignment in List:
-							   0		 1		  2      3
+		                  	 0      1       2      3
 				list=['obj1','obj2','obj3','obj4']
-						    -4     -3     -2     -1 
+					-4     -3     -2     -1 
 	
 			 To access a specific value we use indexing.
 			
